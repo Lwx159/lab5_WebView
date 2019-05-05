@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImplicitIntentDemo</string>
+    <string name="url">https://www.baidu.com/</string>
+    <string name="browse3">浏览该网页，通过输入文本</string>
+</resources>
